@@ -3,14 +3,24 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family:'Work Sans', sans-serif;
+  font-family:'Spicy Rice', cursive;
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
-  align-content: center;
+}
+body {
+  background-image: url(images/jungle.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* heading text */
+h1 {
+  color: yellow;
 }
 
-/* heading text */
+h2 {
+  color: yellow;
+}
 h3 {
   padding: 20px 0px 10px 0px;
   color: yellow;
