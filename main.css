@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
 
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family:'Spicy Rice', cursive;
+  font-family:"Lucida Console", Monaco, monospace;
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
@@ -16,6 +16,7 @@ body {
 /* heading text */
 h1 {
   color: yellow;
+  font-size: 18
 }
 
 h2 {
